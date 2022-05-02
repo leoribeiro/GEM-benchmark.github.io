@@ -152,7 +152,8 @@
         "wiki_lingua_turkish_tr_test",
         "wiki_lingua_vietnamese_vi_test",
         "wiki_lingua_spanish_es_test",
-        "wiki_lingua_russian_ru_test"
+        "wiki_lingua_russian_ru_test",
+        "OrangeSum_abstract_test"
       ],
       "metrics": []
     },
@@ -165,7 +166,13 @@
     "simplification": {
       "datasets": [
         "wiki_auto_asset_turk_test_asset",
-        "wiki_auto_asset_turk_test_turk"
+        "wiki_auto_asset_turk_test_turk",
+        "BiSECT_en_test",
+        "BiSECT_de_test",
+        "BiSECT_en_test",
+        "BiSECT_fr_test",
+        "BiSECT_es_test",
+        "cochrane-simplification_test"
       ],
       "metrics": []
     }
